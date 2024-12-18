@@ -10,13 +10,13 @@ A sleek and simple digital clock application built using PyQt5. This app display
 - Custom window icon (`clockicon.jpg`) for a polished look.
 
 ## Requirements
-- Python 3.x
+- Python 3 or above
 - PyQt5 library
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/paomfarv/digital-clock.git
    cd digital-clock
    ```
 
@@ -34,9 +34,6 @@ A sleek and simple digital clock application built using PyQt5. This app display
 - `DigitalClock.py`: The main Python script.
 - `DS-DIGIT.TTF`: Custom digital font used for the clock.
 - `clockicon.jpg`: Icon file for the application window.
-
-## Screenshot
-*(Add a screenshot of your application here if desired)*
 
 ## License
 This project is licensed under the MIT License.
